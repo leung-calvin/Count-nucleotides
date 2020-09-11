@@ -1,2 +1,2 @@
 # Count-nucleotides
-Python script to count number of nucleotides given a DNA sequence
+Python function to count number of nucleotides given a DNA sequence
